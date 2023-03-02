@@ -1,0 +1,5 @@
+myvenv/
+/myproject/__pycache__
+credImp.json
+myapp/
+db.sqlite3
